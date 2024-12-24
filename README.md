@@ -4,8 +4,8 @@
 
 #### Menue Base Program
 
-What would you like to do? (Use arrow keys)
-❯ Run All Tests
-Run Specific Test
-View Test Descriptions
-Exit
+##### What would you like to do? (Use arrow keys)
+##### ❯ Run All Tests
+##### Run Specific Test
+##### View Test Descriptions
+##### Exit
