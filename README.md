@@ -1,11 +1,17 @@
-# testing_rest_api_using_jest
+# 🛠️ Testing REST API using Jest  
 
-### Its Just a Dummy Code for to test rest api using jest
+This repository contains **dummy code** to demonstrate how to test a REST API using **Jest**.  
 
-#### Menue Base Program
+## 📌 Features  
+- Simple **menu-based** program for running tests  
+- Options to **run all tests**, **run specific tests**, or **view test descriptions**  
 
-##### What would you like to do? (Use arrow keys)
-##### ❯ Run All Tests
-##### Run Specific Test
-##### View Test Descriptions
-##### Exit
+## 📜 Menu Options  
+- What would you like to do? (Use arrow keys)
+- ❯ Run All Tests
+- Run Specific Test
+- View Test Descriptions
+- Exit
+
+
+- Stay tuned for updates! 🚀  
